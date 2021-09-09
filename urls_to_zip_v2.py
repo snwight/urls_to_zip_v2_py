@@ -8,7 +8,6 @@ import urllib.parse as urlparse
 import urllib.request
 
 import json 
-import os
 import tempfile
 import zipfile
 
